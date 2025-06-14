@@ -4,13 +4,13 @@
 
 ---
 
-## 📘 Project Summary
+##  Project Summary
 
 This project simulates and models a dynamic pricing system used by food delivery platforms (like Delivery Hero or Uber Eats). It predicts optimal delivery prices based on multiple contextual features using a machine learning regression model.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Enable businesses to estimate delivery prices by considering factors such as:
 
@@ -24,7 +24,7 @@ Enable businesses to estimate delivery prices by considering factors such as:
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```
 dynamic-pricing-simulation/
@@ -48,7 +48,7 @@ dynamic-pricing-simulation/
 
 ---
 
-## 🧪 Dataset
+##  Dataset
 
 The dataset is synthetically generated using `generate_data.py`. It contains:
 
@@ -64,7 +64,7 @@ The dataset is synthetically generated using `generate_data.py`. It contains:
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 - Model: `RandomForestRegressor`
 - Feature encoding: LabelEncoding
@@ -79,7 +79,7 @@ The dataset is synthetically generated using `generate_data.py`. It contains:
 
 ---
 
-## 📊 Streamlit Dashboard
+##  Streamlit Dashboard
 
 Launch the dashboard with:
 
